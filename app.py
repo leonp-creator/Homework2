@@ -8,8 +8,8 @@ from groq import Groq
 # ---------------------------------------------------------------------------
 # Business setup
 # ---------------------------------------------------------------------------
-BRAND = "Northline Apparel"
-QUESTION = "Is my new season release well received by customers?"
+BRAND = "Classwork Couture"
+QUESTION = "Is the new F/W 26 season release well received by customers?"
 
 LABELS = {
     "Loves new season": "Positive about the new season pieces (design, fit, fabric, colors, value).",
